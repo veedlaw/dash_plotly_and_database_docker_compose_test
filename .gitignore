@@ -1,0 +1,5 @@
+.env.production
+.env.development
+
+__pycache__/
+*.py[cod]
